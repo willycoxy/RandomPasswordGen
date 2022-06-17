@@ -7,3 +7,5 @@ This is a Random Password Generator. The user has the choice of what type of cha
 * Javascript 
 
 ## Website
+https://willycoxy.github.io/RandomPasswordGen/
+
